@@ -50,11 +50,11 @@
 	<distributionManagement>
 		<repository>
 			<id>packagecloud-fhv-msi</id>
-			<url>packagecloud+https://packagecloud.io/fhv-msi/sentiment_analysis</url>
+			<url>packagecloud+https://packagecloud.io/fhv-msi/continuous-delivery</url>
 		</repository>
 		<snapshotRepository>
 			<id>packagecloud-fhv-msi</id>
-			<url>packagecloud+https://packagecloud.io/fhv-msi/sentiment_analysis</url>
+			<url>packagecloud+https://packagecloud.io/fhv-msi/continuous-delivery</url>
 		</snapshotRepository>
 	</distributionManagement>
 
